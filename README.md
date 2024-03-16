@@ -42,9 +42,9 @@ Based on the above chart, Manhattan has the highest demand for Airbnb rentals, w
 
 Examining the average prices associated with different room types (entire home/apartment, private rooms, and shared rooms) provides valuable insights into pricing dynamics. This analysis aims to identify the room types that command higher average prices and, consequently, may yield more lucrative returns for investors.
 
-![A screenshot of a graph](media/image4.png)
+![A screenshot of a graph](https://github.com/Ade-Ogunbiyi/NYC-Airbnb-Market-Trend-Analysis/blob/main/Avg%20Price%20per%20Room%20Type.png)
 
-![A screenshot of a computer](media/image5.png)
+![A screenshot of a computer](https://github.com/Ade-Ogunbiyi/NYC-Airbnb-Market-Trend-Analysis/blob/main/Color%20legend.png)
 
 **What is the average price for a certain type of room in a particular neighborhood?**
 
@@ -86,7 +86,7 @@ The above insights show that Manhattan is generally the most expensive, it offer
 
 The demand rate gauges the popularity and profitability of an Airbnb property, which is determined by the ratio of reviews to price. A high demand rate signifies frequent bookings and positive guest feedback, which indicates a popular and lucrative property. Conversely, a low demand rate implies the property may be less appealing or priced higher than comparable options.
 
-![A screenshot of a computer screen](media/image6.png)
+![A screenshot of a computer screen](https://github.com/Ade-Ogunbiyi/NYC-Airbnb-Market-Trend-Analysis/blob/main/Demand%20Rate.png)
 
 **Which types of properties have the highest demand rates?**
 
@@ -96,7 +96,7 @@ The above bubble chart shows the average demand rate for different types of prop
 
 Focusing on the average prices of Airbnb listings in each neighborhood, this section provides a nuanced understanding of pricing trends across different areas of New York City. Identifying neighborhoods with higher average prices can assist investors in targeting premium markets for potentially higher returns.
 
-![A graph showing a number of different colored bars](media/image7.png)
+![A graph showing a number of different colored bars](https://github.com/Ade-Ogunbiyi/NYC-Airbnb-Market-Trend-Analysis/blob/main/Average%20Price%20Per%20Neighborhood.png)
 
 **What is the average Airbnb price per neighborhood?**
 
@@ -110,7 +110,7 @@ Focusing on the average prices of Airbnb listings in each neighborhood, this sec
 
 The seasonal trends section examines variations in Airbnb listing prices throughout the year. Understanding the seasonality of pricing is crucial for investors to implement effective pricing strategies. This analysis aims to highlight the months with peak demand and the potential impact of seasonality on pricing dynamics.
 
-![A graph with numbers and a line](media/image8.png)
+![A graph with numbers and a line](https://github.com/Ade-Ogunbiyi/NYC-Airbnb-Market-Trend-Analysis/blob/main/Seasonal%20Trend%20Based%20On%20Listing%20and%20Price.png)
 
 **What are the seasonal trends based on listing and price?**
 
