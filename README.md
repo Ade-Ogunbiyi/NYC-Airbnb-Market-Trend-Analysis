@@ -12,7 +12,7 @@ This report offers a comprehensive analysis of Airbnb market trends in New York 
 
 In the rapidly evolving landscape of the sharing economy, Airbnb has become a significant player, transforming how people travel and accommodating diverse traveler preferences. This report aims to equip investors with actionable insights into market demands, pricing strategies, and occupancy rates, which are crucial for optimizing returns in the Airbnb market. The data for this analysis comes from the New York City [Airbnb dataset](https://public.tableau.com/app/sample-data/airbnb.xlsx), publicly accessible on Tableau's sample data repository. This dataset provides a thorough overview of Airbnb listings in the city, covering essential variables like host details, property information, pricing, and reviews. The reliability and relevance of this dataset make it a solid foundation for the insights shared in this report.
 
-![A close-up of a graph](media/image2.png)
+![A close-up of a graph](https://github.com/Ade-Ogunbiyi/NYC-Airbnb-Market-Trend-Analysis/blob/main/New%20Dashboard.png)
 
 The above [dashboard](https://public.tableau.com/views/AirbnbInsights_17045189933090/AirbnbInsights?:language=en-US&:display_count=n&:origin=viz_share_link) serves as a comprehensive tool, focusing on pivotal metrics such as neighborhood demand, average prices, property types, and seasonal variations. The data visualizations in the dashboard illuminate trends and patterns that are instrumental for investors in navigating the intricacies of the Airbnb market.
 
