@@ -30,7 +30,7 @@ Investors keen on strategic decision-making require a deep dive into the Airbnb 
 
 ### Neighborhood Demand
 
-I will be Investigating the demand for Airbnb rentals across various neighborhoods in New York City. Doing so will sheds light on the popularity and desirability of different areas based on the number of listings, providing a foundational understanding of where potential investors might find the highest demand.
+I will be Investigating the demand for Airbnb rentals across various neighborhoods in New York City. Doing so will shed light on the popularity and desirability of different areas based on the number of listings, providing a foundational understanding of where potential investors might find the highest demand.
 
 ![A graph with red and orange bars](https://github.com/Ade-Ogunbiyi/NYC-Airbnb-Market-Trend-Analysis/blob/main/Neighborhood%20Demand.png)
 
