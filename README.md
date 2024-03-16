@@ -1,6 +1,6 @@
 # NYC Airbnb Market Trends: Smart Investment Strategies.
 
-![A city skyline with lights and water](media/image1.jpg)
+![A city skyline with lights and water](https://github.com/Ade-Ogunbiyi/NYC-Airbnb-Market-Trend-Analysis/blob/main/Airbnb%20report%20image1.jpg)
 
 *Image Source: [nyhabitat.com](https://www.nyhabitat.com/blog/2015/04/06/live-local-midtown-east-manhattan/)*
 
@@ -10,7 +10,7 @@ This report offers a comprehensive analysis of Airbnb market trends in New York 
 
 ## Introduction
 
-In the rapidly evolving landscape of the sharing economy, Airbnb has become a significant player, transforming the way people travel and accommodating diverse traveler preferences. This report aims to equip investors with actionable insights into market demands, pricing strategies, and occupancy rates, crucial for optimizing returns in the Airbnb market. The data for this analysis comes from the New York City [Airbnb dataset](https://public.tableau.com/app/sample-data/airbnb.xlsx), publicly accessible on Tableau's sample data repository. This dataset provides a thorough overview of Airbnb listings in the city, covering essential variables like host details, property information, pricing, and reviews. The reliability and relevance of this dataset make it a solid foundation for the insights shared in this report.
+In the rapidly evolving landscape of the sharing economy, Airbnb has become a significant player, transforming how people travel and accommodating diverse traveler preferences. This report aims to equip investors with actionable insights into market demands, pricing strategies, and occupancy rates, which are crucial for optimizing returns in the Airbnb market. The data for this analysis comes from the New York City [Airbnb dataset](https://public.tableau.com/app/sample-data/airbnb.xlsx), publicly accessible on Tableau's sample data repository. This dataset provides a thorough overview of Airbnb listings in the city, covering essential variables like host details, property information, pricing, and reviews. The reliability and relevance of this dataset make it a solid foundation for the insights shared in this report.
 
 ![A close-up of a graph](media/image2.png)
 
